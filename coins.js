@@ -27,11 +27,8 @@ console.log();
        dimes
        nickles
        pennies*/
-      
-var input = document.getElementById("inputData").value
-var output = document.getElementById("outputData").innerHTML
+/*counter function*/
 
-// counter function
 function coinCounter(dollar) {
 
   var amt = parseFloat(dollar);
